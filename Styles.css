@@ -1,0 +1,55 @@
+body {
+  background: #131415;
+}
+
+/* Fuente de google: Lemon */
+@import url("https://fonts.googleapis.com/css2?family=Lemon&display=swap");
+
+.Título_principal {
+  font-family: "Lemon";
+  font-weight: 400;
+  color: #fff;
+  font-size: 30px;
+  text-align: start;
+  word-spacing: 10px;
+}
+
+.Introducción_noticia {
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.Desarrollo_noticia {
+  font-family: "Lemon";
+  font-weight: 400;
+  color: #fff;
+  font-size: 24px;
+  text-align: left;
+
+  text-decoration: underline;
+}
+
+.Primer_párrafo {
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+}
+
+.Segundo_párrafo {
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+  word-spacing: 5px;
+}
+
+.Tercer_párrafo {
+  font-family: sans-serif;
+  color: #fff;
+  font-size: 18px;
+  text-align: left;
+  word-spacing: 5px;
+}
